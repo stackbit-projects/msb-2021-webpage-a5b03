@@ -30,11 +30,8 @@ seo:
       relativeUrl: true
 template: page
 ---
+There are many fundamental concepts unique to medical image computing and computer-assisted interventions. However, finding good sources can be difficult, whether you are a new student or an established researcher exploring a new topic.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+With the MICCAI Educational Challenge, we hope to build a library of tutorials relevant to the MICCAI community and created by its members. Establishing a comprehensive collection will make the field more accessible and shorten the startup time for new students. The MEC will be repeated at future MICCAI conferences, building a large corpus of educational resources for the community.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+**
