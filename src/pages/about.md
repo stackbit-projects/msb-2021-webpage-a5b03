@@ -10,7 +10,7 @@ subtitle: >-
   accessible and shorten the startup time for new students. The MEC will be
   repeated at future MICCAI conferences, building a large corpus of educational
   resources for the community.
-image: images/about.jpg
+image: images/IMG_3727.PNG
 image_alt: A man taking a picture
 seo:
   title: About Us
