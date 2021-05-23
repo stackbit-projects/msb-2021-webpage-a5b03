@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: MICCAI Educational Challenge 2021
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 image_alt: A man taking a picture
