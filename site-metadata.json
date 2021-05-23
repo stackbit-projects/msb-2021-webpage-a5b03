@@ -68,7 +68,8 @@
                 "icon": "linkedin",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "MICCAI Student Board 2021"
     },
     "title": "Stackbit Exto Theme",
     "domain": "https://msb-2021-webpage-a5b03.netlify.app"
